@@ -1,0 +1,29 @@
+:root {
+  // Fonts
+  --main-font: 'Montserrat', sans-serif;
+
+  // Text colors
+  --main-text-cl: #1f1f1f;
+  --secondary-text-cl: #ffc736;
+
+  // Background colors
+  --main-bg-cl: #ffffff;
+  --secondary-bg-cl: #dcdcdc;
+
+  --main-accent-cl: #ffc736;
+  --main-light-accent-cl: #0c5e81;
+
+  --secondary-accent-cl: #a6cfd3;
+  --secondary-light-accent-cl: #a6cccf;
+  --secondary-dark-accent-cl: #98c3c7;
+
+  // Transition
+  --transition-cubic: cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-time: 200ms;
+
+  // Message
+  --success-cl: #74b566;
+  --info-cl: #76bedb;
+  --warning-cl: #e6af5f;
+  --error-cl: #c95c54;
+}

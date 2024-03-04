@@ -1,0 +1,12 @@
+.box {
+  display: flex;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  object-position: 110%;
+  overflow: hidden;
+}
+
+.image {
+  transform: scale(1.5) translate(5px, -3px);
+}
